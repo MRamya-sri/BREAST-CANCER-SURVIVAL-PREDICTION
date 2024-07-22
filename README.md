@@ -47,11 +47,6 @@ To run this project locally, follow these steps:
     cd breast-cancer-survival-prediction
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 1. Open the Jupyter Notebook:
     ```bash
